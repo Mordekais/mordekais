@@ -1,4 +1,4 @@
-<h2 align="center">Hola 👋! Mi nombre es Roger jimenez<br>y soy un apasionado la programación</h2>
+<h2 align="center">Hola 👋! Mi nombre es Roger jimenez<br>y soy un apasionado a la programación</h2>
 
 ###
 
